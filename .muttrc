@@ -1,0 +1,40 @@
+mailboxes imaps://mail.eskimo.com/INBOX
+subscribe pct-l@mailman.backcountry.net
+set envelope_from=yes
+set record=~/Mail/sent
+set delete=yes
+set mail_check=90
+set timeout=15
+set imap_user=khr
+set imap_pass=khr1khr2
+my_hdr From: Kevin Ragan <khr@huskies.com>
+
+alias article article@mises.org
+alias barb Barbie Hartman <LDS_DandC3830@msn.com>
+alias dad Dad and Glenda <ragsragan@aol.com>
+alias dave Dave Hammer <retiredguy04@yahoo.com>
+alias Paul Paul <Pbronkar@aol.com>
+alias ew  Eric Wagner    <eewagner@earthlink.net>
+alias eb  Ed Beckmann    <ebeckman@insuresuite.com>
+#alias josh  Josh Cobb    <info@e50.com> still good?
+alias connor  Connor Ragan    <connorragan@tmail.com>
+alias laurie   <lauriera@jps.net>
+alias gene Gene Nowlin <gnowlin@juno.com>
+alias brian Brian Hill <brian@lingerhere.org>
+alias mark <mlt35000@earthlink.net>
+alias helen <hjones@chebucto.ns.ca>
+alias molly Molly Ragan <mragan@bridgepub.com>
+alias sue Sue Hatfield <hatfield100@hotmail.com>
+alias rachel Rachel Jones <rachelamelia@hotmail.com>
+alias jkhum johny khum <jkhum@insste.com>
+alias george george amd mariam hill <gandm@nventure.com>
+alias francis Francis Ma <fmma@sbcglobal.net>
+alias josh josh <cobbj@yahoo-inc.com>
+alias steve stephen oneil <stepheno@yahoo-inc.com>
+alias vadim vadim israilevich visrailevich@bigfoot.com
+alias chris chris arnold <arnoldch@yahoo-com>
+alias at Aleksey Tsalolikhin <aleksey.tsalolikhin@gmail.com>
+alias evan Kim and Evan Jones <kimandevan@earthlink.net>
+alias nickel Nickel <nickelpct@cox.net>
+alias nils nils <nanders@jps.net>
+alias georger George Ragan <johnny3tears@tmobile.com>

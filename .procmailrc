@@ -1,0 +1,6 @@
+LOGFILE=$HOME/Mail/pm.log
+MAILDIR=$HOME/Mail 
+
+:0
+* ^TOpct-l
+pct-l

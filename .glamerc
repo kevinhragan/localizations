@@ -1,0 +1,2 @@
+(define glame-config
+'((waveedit/scroll . 132) (audio_io/input_dev . "plughw:0,0") (audio_io/input_plugin . "audio_in") (audio_io/input_rate . 44100) (audio_io/output_dev . "plughw:0,0") (audio_io/output_plugin . "audio_out") (swapfile/maxvm . 268435456) (swapfile/maxmaps . 256) (swapfile/maxfds . 128) (swapfile/maxlru . 2048) (swapfile/defaultpath . "/home/khr/.glameswap") (edit_filter/macMode . 0) (edit_filter/popupTimeout . 200) (filter/wbufsize . 1024) (swapfile/maxundo . 5)))

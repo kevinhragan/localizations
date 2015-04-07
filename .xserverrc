@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /usr/bin/X11/X -dpi 100 -nolisten tcp

@@ -1,0 +1,6 @@
+MAILDIR=$HOME/Mail 
+LOGFILE=procmail.log
+VERBOSE=yes
+:0
+* ^TOpct-l
+pct-l
