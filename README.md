@@ -1,0 +1,2 @@
+# localizations
+my localized .dotfiles
