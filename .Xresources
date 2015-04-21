@@ -1,0 +1,5 @@
+URxvt.scrollstyle:  plain
+URxvt.saveLines:  8192
+URxvt.scrollBar_right:  True
+! URxvt.reverseVideo:  True
+URxvt.background: slate gray
