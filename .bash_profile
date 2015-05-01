@@ -5,6 +5,8 @@ export PS1='\w\$ '
 export PATH=$PATH:~/bin:/usr/local/j2re1.4.2/bin:/sbin:/usr/sbin
 export VISUAL=/usr/bin/vi
 export HISTSIZE=2000
-alias con='sudo ifdown wlan0; sudo ifup wlan0'
+# home desktop only
+    alias con='sudo ifdown wlan0; sudo ifup wlan0'
 . ~/.bashrc
-startx
+# home desktop only
+    pgrep X > /dev/null || startx
