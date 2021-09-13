@@ -19,9 +19,18 @@ L's cycle
     intensives
         54000 for 6
         68000 for 8
+<<<<<<< HEAD
+	76500 for 9  8500
+        80000 for 10 3500
+        90000 for 12 10000
+     what are realistic ranges for actual intensives used
+     will treas reliably unwrap packages
+     need cost of 6 and 7
+=======
         80000 for 10
         90000 for 12
      what are realistic ranges for actual intensives used: 6-8
+>>>>>>> efd688b8ea773625b979d1e5fbf3b09679ec64c2
      need cost of clear thru 5
 
 
